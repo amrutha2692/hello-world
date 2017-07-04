@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
-its new editings .
+latest new one
 new learning
